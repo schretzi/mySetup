@@ -1,0 +1,12 @@
+tap "homebrew/bundle" 
+tap "homebrew/services"
+
+cask "elgato-stream-deck"
+cask "logitune"
+cask "obs"
+cask "reaper"
+
+## Screen Capture
+brew "asciinema"
+brew "agg"
+brew "vhs"

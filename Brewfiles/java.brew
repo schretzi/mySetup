@@ -1,0 +1,7 @@
+tap "homebrew/bundle" 
+tap "homebrew/services"
+
+brew "openjdk@11"
+brew "openjdk@17"
+brew "maven"
+brew "maven-completion"

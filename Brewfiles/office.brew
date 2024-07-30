@@ -1,0 +1,82 @@
+tap "homebrew/bundle" 
+tap "koekeishiya/formulae"
+tap "FelixKratz/formulae"
+tap "homebrew/cask-fonts" 
+
+## Window Management
+brew "sketchybar"
+
+## Browser
+cask "arc"
+cask "google-chrome"
+
+## Mail
+brew "neomutt"
+brew "w3m"
+
+## Documents
+cask "bbedit"
+brew "markdown"
+cask "obsidian"
+brew "pandoc"
+cask "sejda-pdf"
+
+## News & Networks
+cask "discord"
+
+
+## Passwords 
+cask "keepassx"
+cask "bitwarden"
+
+## UI Tools
+cask "alfred"
+cask "deepl"
+cask "gimp"
+cask "miro"
+
+## Office
+cask "microsoft-auto-update"
+cask "microsoft-office"
+cask "microsoft-teams"
+cask "microsoft-remote-desktop"
+
+## Network 
+brew "telnet"
+brew "unbound"
+brew "wget"
+
+## CLI Tools
+brew "bat"
+brew "gnu-sed"
+cask "iterm2"
+cask "warp"
+brew "tmux"
+brew "tmuxinator"
+brew "xterm"
+brew "btop"
+brew "grep"
+brew "navi"
+brew "up"
+brew "zoxide"
+brew "tree"
+cask "karabiner-elements"
+
+## Others
+cask "flameshot"
+
+## fonts
+cask "font-source-code-pro"
+cask "font-hack-nerd-font"
+cask "font-fira-code-nerd-font"
+
+## A/V Studio things
+
+## Graphics & CAD
+cask "blender"
+cask "freecad"
+cask "qcad"
+
+
+## Time Tracking
+brew "brew-gem"

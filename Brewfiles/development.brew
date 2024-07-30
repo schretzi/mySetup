@@ -1,0 +1,66 @@
+tap "homebrew/bundle" 
+tap "homebrew/services"
+
+## Developer UIs
+cask "visual-studio-code"
+cask "postman"
+crew "bruno"
+
+## Git & community
+cask "github"
+cask "sourcetree"
+
+## CLI Tools
+brew "runme"
+brew "fzf"
+brew "htop"
+brew "ispell"
+brew "lua"
+brew "jq"
+brew "make"
+brew "watch"
+
+## IaC
+brew "pulumi"
+brew "terraform"
+brew "terragrunt"
+
+## Sonar
+brew "sonar-scanner"
+brew "sonarqube"
+
+## DB Tools
+cask "dbeaver-community"
+
+## Clouds
+cask "google-cloud-sdk"
+
+
+## VMs & Containers
+brew "socket_vmnet"
+brew "lima"
+cask "docker"
+brew "docker-completion"
+
+## K8s
+brew "k3d"
+brew "kubernetes-cli"
+brew "k9s"
+brew "kubectx"
+brew "kube-ps1"
+cask "openlens"
+brew "helm"
+brew "helm-ls"
+brew "istioctl"
+brew "kustomize"
+brew "kubelogin"
+
+## Arduino & Raspi
+cask "arduino-ide"
+cask "raspberry-pi-imager"
+
+## Lang Servers
+brew "bash-language-server"
+brew "dockerfile-language-server"
+brew "lua-language-server"
+brew "yaml-language-server"

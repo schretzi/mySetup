@@ -1,0 +1,13 @@
+tap "homebrew/bundle" 
+tap "homebrew/services"
+
+## Go itself
+brew "go"
+
+## Mocks and Generators
+tap "go-swagger/go-swagger"
+brew "go-swagger"
+brew "mockery"
+
+## Operator SDK for developing Kubernetes Operators
+brew "operator-sdk"

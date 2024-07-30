@@ -1,0 +1,10 @@
+tap "homebrew/bundle" 
+tap "homebrew/services"
+
+brew "youtube-dl"
+cask "android-file-transfer"
+cask "garmin-basecamp"
+cask "garmin-express"
+cask "mqtt-explorer"
+cask "nextcloud"
+cask "qgis"

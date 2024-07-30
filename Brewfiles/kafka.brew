@@ -1,0 +1,6 @@
+tap "homebrew/bundle" 
+tap "homebrew/services"
+
+## Kafka
+brew "kafka"
+brew "aiven-client"
