@@ -1,0 +1,456 @@
+[90m1:14PM[0m [32mINF[0m 🐶 K9s starting up...
+[90m1:14PM[0m [32mINF[0m ✅ Kubernetes connectivity
+[90m1:14PM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28437854-2rmfw"
+[90m1:14PM[0m [32mINF[0m 🐶 K9s starting up...
+[90m1:14PM[0m [32mINF[0m ✅ Kubernetes connectivity
+[90m1:15PM[0m [32mINF[0m 🐶 K9s starting up...
+[90m1:15PM[0m [32mINF[0m ✅ Kubernetes connectivity
+[90m1:15PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28437855-kd75z (gafka)"[0m
+[90m1:15PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28437855-t66gg (gafka)"[0m
+[90m1:15PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28437855-t66gg (gafka)"[0m
+[90m1:15PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28437855-kd75z (gafka)"[0m
+[90m9:13AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439053-h75b5 (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (vault-agent-init)"[0m
+[90m9:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439061-q9xgf\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439061-q9xgf (gafka)"[0m
+[90m9:28AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-connect/k8s-connect-external-7fd6f758c8-xlfjl (vault-agent-init)"[0m
+[90m11:11AM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439171-44m4q"
+[90m11:11AM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm"
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:11AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"vault-agent-init\" in pod \"gafka-28439170-rqlgm\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439170-rqlgm (vault-agent-init)"[0m
+[90m11:14AM[0m [32mINF[0m 🐶 K9s starting up...
+[90m11:14AM[0m [32mINF[0m ✅ Kubernetes connectivity
+[90m11:14AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439174-85q9b (vault-agent-init)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439174-85q9b" not found [36merror=[0m[31m"pods \"gafka-28439174-85q9b\" not found"[0m
+[90m11:15AM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439175-tcrlt"
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:15AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439175-pv7ls\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (gafka)"[0m
+[90m11:16AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439175-pv7ls (vault-agent-init)"[0m
+[90m11:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439181-mdz2k\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439181-mdz2k\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439181-mdz2k\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:21AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439181-mdz2k\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (vault-agent-init)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed pods \"gafka-28439181-mdz2k\" not found for riag-tech-ipl-ipl-systems/gafka-28439181-mdz2k (gafka)"[0m
+[90m11:22AM[0m [31mWRN[0m unable to resolve ports on vault/vault-agent-injector-67c48f8f4c-xbvb4 [36merror=[0m[31m"no exposed ports"[0m
+[90m11:23AM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439183-rb92q"
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (vault-agent-init)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed client rate limiter Wait returned an error: context canceled for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439183-dfk94\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:23AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (vault-agent-init)"[0m
+[90m11:23AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed client rate limiter Wait returned an error: context canceled for riag-tech-ipl-ipl-systems/gafka-28439183-dfk94 (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:24AM[0m [1m[31mERR[0m[0m logs-stream [36merror=[0m[31m"stream logs failed container \"gafka\" in pod \"gafka-28439184-ln4ks\" is waiting to start: PodInitializing for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (gafka)"[0m
+[90m11:25AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439184-ln4ks (vault-agent-init)"[0m
+[90m11:25AM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439185-pzhsd"
+[90m11:25AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439185-lhlw6 (gafka)"[0m
+[90m11:25AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439185-lhlw6 (vault-agent-init)"[0m
+[90m11:25AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439185-lhlw6 (gafka)"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [31mWRN[0m os detect failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28439185-lhlw6 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m11:26AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m2:32PM[0m [1m[31mERR[0m[0m Tail logs failed [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m2:32PM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439185-lhlw6" not found [36merror=[0m[31m"pods \"gafka-28439185-lhlw6\" not found"[0m
+[90m2:32PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439372-x7j4x (gafka)"[0m
+[90m2:32PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439372-x7j4x (vault-agent-init)"[0m
+[90m2:32PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439372-x7j4x (gafka)"[0m
+[90m2:39PM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439372-x7j4x" not found [36merror=[0m[31m"pods \"gafka-28439372-x7j4x\" not found"[0m
+[90m2:39PM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439379-zsptz"
+[90m2:39PM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439379-h6wqv"
+[90m2:39PM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28439379-8vqsq"
+[90m2:40PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439380-br66l (vault-agent-init)"[0m
+[90m2:40PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439380-br66l (gafka)"[0m
+[90m2:40PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439380-br66l (gafka)"[0m
+[90m2:40PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439380-br66l (vault-agent-init)"[0m
+[90m2:41PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439381-m7x96 (gafka)"[0m
+[90m2:41PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439381-m7x96 (vault-agent-init)"[0m
+[90m2:41PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439381-m7x96 (gafka)"[0m
+[90m2:42PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439381-m7x96 (vault-agent-init)"[0m
+[90m2:50PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439390-tw8ls (vault-agent-init)"[0m
+[90m2:50PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439390-tw8ls (gafka)"[0m
+[90m2:50PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439390-bfnzq (gafka)"[0m
+[90m2:51PM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28439390-bfnzq" not found [36merror=[0m[31m"pods \"gafka-28439390-bfnzq\" not found"[0m
+[90m2:51PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439391-rv2xz (gafka)"[0m
+[90m2:51PM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439391-rv2xz (vault-agent-init)"[0m
+[90m8:46AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 137"[0m
+[90m8:46AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28440465-gw5pz -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:46AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:47AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 137"[0m
+[90m8:47AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28440466-tl5wh -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:47AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:48AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 137"[0m
+[90m8:48AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28440467-hwcqz -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:48AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:50AM[0m [1m[31mERR[0m[0m Retry failed [36merror=[0m[31m"pods \"gafka-28440468-dbl6b\" not found"[0m
+[90m8:50AM[0m [1m[31mERR[0m[0m pods "gafka-28440468-dbl6b" not found
+[90m8:54AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440474-vzm7t (vault-agent-init)"[0m
+[90m8:54AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28440474-vzm7t (gafka)"[0m
+[90m8:54AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m8:54AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n vault vault-0 -c vault -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m8:54AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m8:54AM[0m [31mWRN[0m Deleted (0) portforward for "riag-tech-ipl-ipl-systems/gafka-28440474-vzm7t"
+[90m8:54AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m8:54AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28440474-j4qxv -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m8:54AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m8:55AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439389-6mvjw (gafka)"[0m
+[90m8:55AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28439389-6mvjw (vault-agent-init)"[0m
+[90m8:55AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 1"[0m
+[90m8:55AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28440475-6lbxw -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m8:55AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 1
+ [36merror=[0m[31m"exit status 1\n"[0m
+[90m8:57AM[0m [1m[31mERR[0m[0m Command failed [36merror=[0m[31m"exit status 137"[0m
+[90m8:57AM[0m [1m[31mERR[0m[0m Exec failed "/Users/schretzi/bin/google-cloud-sdk/bin/kubectl exec --context k3d-ipl -it -n riag-tech-ipl-ipl-systems gafka-28440476-s52c7 -c gafka -- sh -c command -v bash >/dev/null && exec bash || exec sh": exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:57AM[0m [1m[31mERR[0m[0m Shell exec failed: exit status 137
+ [36merror=[0m[31m"exit status 137\n"[0m
+[90m8:58AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for vault/vault-0 (vault)"[0m
+[90m8:58AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440478-dx8pf (vault-agent-init)"[0m
+[90m8:58AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28440478-dx8pf (gafka)"[0m
+[90m8:59AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440478-dx8pf (gafka)"[0m
+[90m8:59AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28440478-dx8pf" not found [36merror=[0m[31m"pods \"gafka-28440478-dx8pf\" not found"[0m
+[90m8:59AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440479-wckgn (vault-agent-init)"[0m
+[90m8:59AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28440479-wckgn (gafka)"[0m
+[90m8:59AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28440479-wckgn (gafka)"[0m
+[90m9:00AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440479-wckgn (gafka)"[0m
+[90m9:00AM[0m [1m[31mERR[0m[0m Watcher failed for containers -- pods "gafka-28440479-wckgn" not found [36merror=[0m[31m"pods \"gafka-28440479-wckgn\" not found"[0m
+[90m9:01AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440480-z2gqb (vault-agent-init)"[0m
+[90m9:01AM[0m [31mWRN[0m log-reader canceled [36merror=[0m[31m"Stream canceled context canceled for riag-tech-ipl-ipl-systems/gafka-28440480-z2gqb (gafka)"[0m
+[90m9:06AM[0m [31mWRN[0m log-reader EOF [36merror=[0m[31m"Stream closed EOF for riag-tech-ipl-ipl-systems/gafka-28440480-z2gqb (gafka)"[0m
+[90m5:37PM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"[0m
+[90m5:37PM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (1/5)"[0m
+[90m5:37PM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": http2: client connection lost"[0m
+[90m5:37PM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (2/5)"[0m
+[90m5:38PM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m5:38PM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (3/5)"[0m
+[90m5:38PM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m5:38PM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (4/5)"[0m
+[90m5:38PM[0m [31mWRN[0m Deleted (0) portforward for "vault/vault-0:vault"
+[90m6:09AM[0m [32mINF[0m 🐶 K9s starting up...
+[90m6:09AM[0m [1m[31mERR[0m[0m Fail to locate metrics-server [36merror=[0m[31m"Get \"https://0.0.0.0:6550/api\": net/http: TLS handshake timeout"[0m
+[90m6:09AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m6:09AM[0m [31mWRN[0m namespace validation failed for: "default" [36merror=[0m[31m"no connection to dial"[0m
+[90m6:09AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:09AM[0m [32mINF[0m ✅ Kubernetes connectivity
+[90m6:09AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m6:09AM[0m [1m[31mERR[0m[0m Fail to load global/context configuration [36merror=[0m[31m"Get \"https://0.0.0.0:6550/api\": net/http: TLS handshake timeout\ncannot connect to context: k3d-ipl\nk8s connection failed for context: k3d-ipl"[0m
+[90m6:09AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m6:09AM[0m [1m[31mERR[0m[0m Load cluster resources - No API server connection
+[90m6:09AM[0m [1m[31mERR[0m[0m failed to list contexts [36merror=[0m[31m"no connection"[0m
+[90m6:09AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m6:09AM[0m [31mWRN[0m Unable to dial discovery API [36merror=[0m[31m"no connection to dial"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m Load cluster resources - No API server connection
+[90m6:10AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m Context switch failed [36merror=[0m[31m"unable to connect to context \"k3d-ipl\""[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m unable to connect to context "k3d-ipl"
+[90m6:10AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m Context switch failed [36merror=[0m[31m"unable to connect to context \"k3d-ipl\""[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m unable to connect to context "k3d-ipl"
+[90m6:10AM[0m [31mWRN[0m Unable to dial discovery API [36merror=[0m[31m"no connection to dial"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (1/5)"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (2/5)"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:10AM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (3/5)"[0m
+[90m6:11AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:11AM[0m [1m[31mERR[0m[0m ClusterUpdater failed [36merror=[0m[31m"conn check failed (4/5)"[0m
+[90m6:11AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": net/http: TLS handshake timeout"[0m
+[90m6:11AM[0m [1m[31mERR[0m[0m Conn check failed (5/5). Bailing out!
+[90m8:31AM[0m [32mINF[0m 🐶 K9s starting up...
+[90m8:31AM[0m [1m[31mERR[0m[0m Fail to locate metrics-server [36merror=[0m[31m"Get \"https://0.0.0.0:6550/api\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m
+[90m8:31AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m8:31AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m
+[90m8:31AM[0m [32mINF[0m ✅ Kubernetes connectivity
+[90m8:31AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m8:31AM[0m [1m[31mERR[0m[0m Fail to load global/context configuration [36merror=[0m[31m"Get \"https://0.0.0.0:6550/api\": dial tcp 0.0.0.0:6550: connect: connection refused\ncannot connect to context: k3d-ipl\nk8s connection failed for context: k3d-ipl"[0m
+[90m8:31AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m8:31AM[0m [1m[31mERR[0m[0m Load cluster resources - No API server connection
+[90m8:31AM[0m [1m[31mERR[0m[0m failed to list contexts [36merror=[0m[31m"no connection"[0m
+[90m8:31AM[0m [31mWRN[0m namespace validation failed for: "riag-tech-ipl-ipl-systems" [36merror=[0m[31m"no connection to dial"[0m
+[90m8:31AM[0m [31mWRN[0m Unable to dial discovery API [36merror=[0m[31m"no connection to dial"[0m
+[90m8:31AM[0m [1m[31mERR[0m[0m can't connect to cluster [36merror=[0m[31m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m
+[90m8:31AM[0m [1m[31mERR[0m[0m Load cluster resources - No API server connection
+[90m8:31AM[0m [31mWRN[0m Unable to dial discovery API [36merror=[0m[31m"no connection to dial"[0m
+[90m9:58AM[0m [32mINF[0m [1m🐶 K9s starting up...[0m
+[90m9:58AM[0m [31mERR[0m [1mFail to locate metrics-server[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/api\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:58AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:58AM[0m [32mINF[0m [1m✅ Kubernetes connectivity[0m
+[90m9:58AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mFail to load global/context configuration[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/api\": dial tcp 0.0.0.0:6550: connect: connection refused\nk9s config file \"/Users/schretzi/Library/Application Support/k9s/config.yaml\" load failed:\nAdditional property fullScreen is not allowed\ncannot connect to context: k3d-main-cl\nk8s connection failed for context: k3d-main-cl"[0m[0m
+[90m9:58AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mLoad cluster resources - No API server connection[0m
+[90m9:58AM[0m [31mERR[0m [1mfailed to list contexts[0m [36merror=[0m[31m[1m"no connection"[0m[0m
+[90m9:58AM[0m [33mWRN[0m [1mUnable to dial discovery API[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mLoad cluster resources - No API server connection[0m
+[90m9:58AM[0m [33mWRN[0m [1mUnable to dial discovery API[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:58AM[0m [31mERR[0m [1mClusterUpdater failed[0m [36merror=[0m[31m[1m"conn check failed (1/5)"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mClusterUpdater failed[0m [36merror=[0m[31m[1m"conn check failed (2/5)"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mClusterUpdater failed[0m [36merror=[0m[31m[1m"conn check failed (3/5)"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mClusterUpdater failed[0m [36merror=[0m[31m[1m"conn check failed (4/5)"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m9:59AM[0m [31mERR[0m [1mConn check failed (5/5). Bailing out![0m
+[90m9:59AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m11:19AM[0m [32mINF[0m [1m🐶 K9s starting up...[0m
+[90m11:19AM[0m [31mERR[0m [1mFail to locate metrics-server[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/api\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m11:19AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m11:19AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m11:19AM[0m [32mINF[0m [1m✅ Kubernetes connectivity[0m
+[90m11:19AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m11:19AM[0m [31mERR[0m [1mFail to load global/context configuration[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/api\": dial tcp 0.0.0.0:6550: connect: connection refused\nk9s config file \"/Users/schretzi/Library/Application Support/k9s/config.yaml\" load failed:\nAdditional property fullScreen is not allowed\ncannot connect to context: k3d-main-cl\nk8s connection failed for context: k3d-main-cl"[0m[0m
+[90m11:19AM[0m [33mWRN[0m [1mnamespace validation failed for: "default"[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m11:19AM[0m [31mERR[0m [1mLoad cluster resources - No API server connection[0m
+[90m11:19AM[0m [31mERR[0m [1mfailed to list contexts[0m [36merror=[0m[31m[1m"no connection"[0m[0m
+[90m11:19AM[0m [33mWRN[0m [1mUnable to dial discovery API[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m11:19AM[0m [31mERR[0m [1mcan't connect to cluster[0m [36merror=[0m[31m[1m"Get \"https://0.0.0.0:6550/version?timeout=15s\": dial tcp 0.0.0.0:6550: connect: connection refused"[0m[0m
+[90m11:19AM[0m [31mERR[0m [1mLoad cluster resources - No API server connection[0m
+[90m11:19AM[0m [33mWRN[0m [1mUnable to dial discovery API[0m [36merror=[0m[31m[1m"no connection to dial"[0m[0m
+[90m8:21AM[0m [32mINF[0m [1m🐶 K9s starting up...[0m
+[90m8:21AM[0m [32mINF[0m [1m✅ Kubernetes connectivity[0m
+[90m8:21AM[0m [31mERR[0m [1mFail to load global/context configuration[0m [36merror=[0m[31m[1m"k9s config file \"/Users/schretzi/Library/Application Support/k9s/config.yaml\" load failed:\nAdditional property fullScreen is not allowed"[0m[0m
+[90m8:22AM[0m [32mINF[0m [1m🐶 K9s starting up...[0m
+[90m8:22AM[0m [32mINF[0m [1m✅ Kubernetes connectivity[0m
+[90m8:22AM[0m [31mERR[0m [1mFail to load global/context configuration[0m [36merror=[0m[31m[1m"k9s config file \"/Users/schretzi/Library/Application Support/k9s/config.yaml\" load failed:\nAdditional property fullScreen is not allowed"[0m[0m
+[90m8:23AM[0m [32mINF[0m [1m🐶 K9s starting up...[0m
+[90m8:23AM[0m [32mINF[0m [1m✅ Kubernetes connectivity[0m
+[90m8:23AM[0m [31mERR[0m [1mFail to load global/context configuration[0m [36merror=[0m[31m[1m"k9s config file \"/Users/schretzi/Library/Application Support/k9s/config.yaml\" load failed:\nAdditional property fullScreen is not allowed"[0m[0m
+[90m8:23AM[0m [32mINF[0m [1m🐶 K9s starting up...[0m
+[90m8:23AM[0m [32mINF[0m [1m✅ Kubernetes connectivity[0m
+[90m8:23AM[0m [31mERR[0m [1mFail to load global/context configuration[0m [36merror=[0m[31m[1m"k9s config file \"/Users/schretzi/Library/Application Support/k9s/config.yaml\" load failed:\nAdditional property fullScreen is not allowed"[0m[0m

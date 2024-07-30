@@ -1,0 +1,14 @@
+db: /Users/schretzi/OneDrive/Zeit/zeit.db
+debug: false
+firstWeekDayMonday: true
+time:
+  no-seconds: true
+project:
+  mandatory: true
+  default: Rewe
+task:
+  mandatory: true
+report:
+  default: thisWeek
+sketchybar:
+  path: /opt/homebrew/bin/sketchybar

@@ -1,0 +1,12 @@
+k9s:
+  cluster: k3d-main-cl
+  namespace:
+    active: default
+    lockFavorites: false
+    favorites:
+    - default
+  view:
+    active: context
+  featureGates:
+    nodeShell: false
+  portForwardAddress: localhost

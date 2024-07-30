@@ -1,0 +1,13 @@
+k9s:
+  cluster: k3d-ipl
+  namespace:
+    active: riag-tech-ipl-ipl-systems
+    lockFavorites: false
+    favorites:
+    - riag-tech-ipl-ipl-systems
+    - all
+  view:
+    active: context
+  featureGates:
+    nodeShell: false
+  portForwardAddress: localhost

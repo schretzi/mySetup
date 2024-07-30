@@ -1,0 +1,50 @@
+Host stg-b01
+    HostName broker-01.staging.kafka.cloud.riag.digital
+
+Host stg-b02
+    HostName broker-02.staging.kafka.cloud.riag.digital
+
+Host stg-b03
+    HostName broker-03.staging.kafka.cloud.riag.digital
+
+Host stg-b04
+    HostName broker-04.staging.kafka.cloud.riag.digital
+
+Host stg-b05
+    HostName broker-05.staging.kafka.cloud.riag.digital
+
+Host stg-b06
+    HostName broker-06.staging.kafka.cloud.riag.digital
+
+Host build
+    HostName 10.100.66.220
+    User     ext_m_fuchsluger_rewe_group_at
+
+Host connect01t
+    HostName autlviplconnect01t.billa.co.at
+    User     kafka
+
+Host connect02t
+    HostName autlviplconnect02t.billa.co.at
+    User     kafka
+
+Host connect01p
+    HostName autlviplconnect01p.billa.co.at
+    User     kafka
+
+Host connect02p
+    HostName autlviplconnect02p.billa.co.at
+    User     kafka
+
+Host bastion01t
+    HostName autlviplbastion01t.billa.co.at
+    User     kafka
+
+Host bastion01p
+    HostName autlviplbastion01p.billa.co.at
+    User     kafka
+
+Host *
+    UseKeychain yes
+    AddKeysToAgent yes
+    IdentityFile ~/.ssh/id_ed25519

@@ -1,0 +1,7 @@
+alias "ll=ls -l"
+alias "t=tmuxinator"
+alias "vi=nvim"
+alias "vim=nvim"
+alias g="~/bin/google-cloud-sdk/bin/gcloud"
+alias k="kubectl"
+alias gssh="gcloud compute ssh --internal-ip"

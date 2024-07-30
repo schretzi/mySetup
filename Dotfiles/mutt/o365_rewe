@@ -1,0 +1,40 @@
+# User config
+set my_password = "`security find-generic-password -w -s "REWE AD User" -a "AT0748878"`"
+
+set my_realname="Martin Fuchsluger"
+set my_username="m.fuchsluger"
+set my_domain="rewe-group.at"
+set my_lang="en_US"
+
+# IMAP config
+set imap_user="$my_username@$my_domain"
+set imap_pass=$my_password
+
+set folder="imaps://outlook.office365.com/"
+set spoolfile= +INBOX
+set postponed= +$my_drafts_noquote
+set record = +$my_sent_noquote
+set trash = +$my_trash_noquote
+mailboxes
+
+set imap_check_subscribed="yes"
+set imap_list_subscribed="yes"
+set timeout=15
+set mail_check=90
+set imap_keepalive=180
+set imap_idle
+unset mark_old
+set ssl_use_sslv3=yes
+
+# SMTP config
+set realname = $my_realname
+set from = "$my_username@$my_domain"
+set smtp_pass = $my_password
+set hostname = $my_domain
+set smtp_url = "smtp://$my_username@$my_domain@outlook.office365.com:587/"
+set ssl_force_tls = yes
+
+set imap_authenticators = "xoauth2"
+set imap_oauth_refresh_command = "/Users/schretzi/bin/mutt_oauth2_ms_rewe.py /Users/schretzi/.mutt/token_microsoft"
+set smtp_authenticators = ${imap_authenticators}
+set smtp_oauth_refresh_command = ${imap_oauth_refresh_command}
