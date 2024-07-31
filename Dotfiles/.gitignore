@@ -3,3 +3,6 @@ mutt/token_microsoft
 mutt/lang/
 mutt/message_cache/
 mutt/tmp/
+*.pid
+*.key
+*.pem
